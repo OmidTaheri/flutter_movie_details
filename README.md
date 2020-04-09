@@ -2,9 +2,9 @@
 
 Movie Details Ui By Flutter
 
-[uplabs](https://www.uplabs.com/posts/movie-interface)
+[movie-interface](https://www.uplabs.com/posts/movie-interface)
 
-![Movie Details Ui](https://octodex.github.com/images/yaktocat.png)
+![Movie Details Ui](https://raw.githubusercontent.com/OmidTaheri/flutter_movie_details/master/11.png)
 
 
 ## Getting Started
