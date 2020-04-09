@@ -2,6 +2,11 @@
 
 Movie Details Ui By Flutter
 
+[uplabs](https://www.uplabs.com/posts/movie-interface)
+
+![Movie Details Ui](https://octodex.github.com/images/yaktocat.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
