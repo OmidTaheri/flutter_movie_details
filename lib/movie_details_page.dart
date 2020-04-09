@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:fluttermoviedetails/actor_scroller.dart';
 import 'package:fluttermoviedetails/modeles.dart';
 import 'package:fluttermoviedetails/movie_detail_header.dart';
 import 'package:fluttermoviedetails/photo_scroller.dart';
@@ -26,7 +27,7 @@ class MovieDetailsPage extends StatelessWidget {
 
               SizedBox(height: 20,),
 
-              ActorScroller(),
+              ActorScroller(movie.actors),
 
               SizedBox(height: 50,),
 
